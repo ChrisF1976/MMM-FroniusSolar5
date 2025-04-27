@@ -1,7 +1,7 @@
 {
   "name": "MMM-FroniusSolar5",
   "version": "1.0.0",
-  "description": "Ein MagicMirror² Modul zur Visualisierung von Fronius-Solardaten mit stilisierten SVG-Gauges.",
+  "description": "Ein MagicMirror² Modul zur Visualisierung von Fronius-Solardaten mit stilisierten SVG-Gauges. Multi-Inverter Support.",
   "main": "MMM-FroniusSolar5.js",
   "scripts": {
     "start": "echo 'Dieses Modul ist für den Einsatz im MagicMirror vorgesehen und wird dort automatisch geladen.'"
