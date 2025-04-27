@@ -1,0 +1,56 @@
+.MMM-FroniusSolar5 {
+    width: 100%;
+}
+
+.MMM-FroniusSolar5 .solar5-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 0px;
+}
+
+.MMM-FroniusSolar5 .inverter-wrapper {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #444;
+    padding-bottom: 20px;
+}
+
+.MMM-FroniusSolar5 .inverter-wrapper:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.MMM-FroniusSolar5 .inverter-wrapper h3 {
+    margin: 0 0 10px 0;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+
+.MMM-FroniusSolar5 .flow-lines {
+    stroke-dasharray: 4,4;
+    stroke-dashoffset: 0;
+    animation: MMM-FroniusSolar5-flow 2s linear infinite;
+}
+
+@keyframes MMM-FroniusSolar5-flow {
+    from {
+        stroke-dashoffset: 0;
+    }
+    to {
+        stroke-dashoffset: -8;
+    }
+}
+
+.MMM-FroniusSolar5 .text-message5 {
+    margin-top: 10px;
+    text-align: center;
+    max-width: 300px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
