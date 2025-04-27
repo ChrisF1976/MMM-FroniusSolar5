@@ -49,6 +49,7 @@ These are live pictures. The sum of the second picture doesn't match with the fi
 **`ShowIndividualInverters: true,`**
 
 - Individual inverter display mode
+- I use the Wlan IP and Network IP of the same inverter for the picture (I only have 1 inverter).
 
 ![MMM-FroniusSolar5](./img/MMM-FroniusSolar5_individual.png)
 
