@@ -39,6 +39,7 @@ The MMM-FroniusSolar5 module is an advanced evolution of the MMM-FroniusSolar fa
   - Color-coded urgency levels
 
 ## Screenshot
+These are live pictures. The sum of the second picture doesn't match with the first of course. :-)
 **`ShowIndividualInverters: false,`**
 
 - Combined view showing total system performance
@@ -51,7 +52,7 @@ The MMM-FroniusSolar5 module is an advanced evolution of the MMM-FroniusSolar fa
 
 ![MMM-FroniusSolar5](./img/MMM-FroniusSolar5_individual.png)
 
-These are live pictures. To not try to build the sum. :-)
+
 
 ---
 
