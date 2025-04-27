@@ -43,13 +43,13 @@ The MMM-FroniusSolar5 module is an advanced evolution of the MMM-FroniusSolar fa
 
 - Combined view showing total system performance
 
-![MMM-FroniusSolar5](./MMM-FroniusSolar5.png)
+![MMM-FroniusSolar5](./img/MMM-FroniusSolar5.png)
 
 **`ShowIndividualInverters: true,`**
 
 - Individual inverter display mode
 
-![MMM-FroniusSolar5](./MMM-FroniusSolar5_individual.png)
+![MMM-FroniusSolar5](./img/MMM-FroniusSolar5_individual.png)
 
 ---
 
