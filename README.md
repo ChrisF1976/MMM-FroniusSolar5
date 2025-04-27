@@ -51,6 +51,8 @@ The MMM-FroniusSolar5 module is an advanced evolution of the MMM-FroniusSolar fa
 
 ![MMM-FroniusSolar5](./img/MMM-FroniusSolar5_individual.png)
 
+These are live pictures. To not try to build the sum. :-)
+
 ---
 
 ## Installation
