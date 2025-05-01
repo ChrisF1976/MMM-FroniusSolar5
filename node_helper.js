@@ -49,8 +49,11 @@ module.exports = NodeHelper.create({
                 return response.json();
             })
             .then(data => {
-                const siteData = data.Body.Data.Site;
-                const inverterData = data.Body.Data.Inverters ? data.Body.Data.Inverters["1"] : {};
+                const siteData = data?.Body?.Data?.Site || {};
+                const inverters = data?.Body?.Data?.Inverters || {};
+                const inverterIDs = Object.keys(inverters);
+                const firstInverterID = inverterIDs.length > 0 ? inverterIDs[0] : null;
+                const inverterData = firstInverterID ? inverters[firstInverterID] : {};
 
                 const result = {
                     inverterIP: ip,
