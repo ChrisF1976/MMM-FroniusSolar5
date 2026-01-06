@@ -75,7 +75,7 @@ npm install
 ```bash
 	cd ~/MagicMirror/modules/MMM-FroniusSolar5
 	git pull
-	npm ci
+	npm install
 ```
 ## Configuration
 Add the module to the `config.js` file:
