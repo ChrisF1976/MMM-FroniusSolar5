@@ -70,8 +70,13 @@ These are live pictures. The sum of the second picture doesn't match with the fi
 cd MMM-FroniusSolar5
 npm install
 ```
-
-
+## Update
+  
+```bash
+	cd ~/MagicMirror/modules/MMM-FroniusSolar5
+	git pull
+	npm ci
+```
 ## Configuration
 Add the module to the `config.js` file:
 
